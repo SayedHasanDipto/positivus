@@ -4,8 +4,8 @@ import React from 'react';
 
 const Navbar = () => {
     return (
-        <div className='container border mx-auto mt-10 space-grotesk space-grotesk'>
-            <div className="navbar bg-base-100 shadow-sm">
+        <div className='container mx-auto mt-10 space-grotesk space-grotesk'>
+            <div className="navbar">
                 <div className="flex-1">
                     <img src={logoImg} alt="logoImg" />
                 </div>
