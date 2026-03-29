@@ -16,7 +16,7 @@ const Navbar = () => {
                         <li><a href="/Use Cases">Use Cases</a></li>
                         <li><a href="/Pricing">Pricing</a></li>
                         <li><a href="/Blog">Blog</a></li>
-                        <button className='btn btn-outline font-medium text-xl'>Request a quote</button>
+                        <button className='btn btn-outline font-normal text-xl h-16 rounded-2xl'>Request a quote</button>
                     </ul>
                 </div>
             </div>
